@@ -1,0 +1,24 @@
+Warning: Vehicle 'car_1597' ends teleporting on edge '562499724#20', time=1807.90.
+Warning: Teleporting vehicle 'car_1277'; waited too long (jam), lane=':10254888526_6_0', time=1809.00.
+Warning: Teleporting vehicle 'car_2762'; waited too long (yield), lane='24583592#4_0', time=1814.10.
+Warning: Vehicle 'car_1277' ends teleporting on edge '720546573#4', time=1817.30.
+Warning: Vehicle 'bike_338' ends teleporting on edge '562439576', time=1824.40.
+Warning: Teleporting vehicle 'car_1805'; waited too long (yield), lane='570616026#11_0', time=1828.30.
+Warning: Teleporting vehicle 'car_2797'; waited too long (jam), lane=':10255311409_3_0', time=1829.20.
+Warning: Vehicle 'car_2797' ends teleporting on edge '998790358#7', time=1829.20.
+Warning: Teleporting vehicle 'car_2713'; waited too long (jam), lane='998790358#6_0', time=1833.90.
+Warning: Vehicle 'car_2713' ends teleporting on edge '998790358#7', time=1833.90.
+Warning: Teleporting vehicle 'car_2967'; waited too long (yield), lane='-343654534#0_0', time=1837.70.
+Warning: Vehicle 'car_1805' ends teleporting on edge '563679820#1', time=1853.30.
+Warning: Teleporting vehicle 'car_3033'; waited too long (yield), lane='998790351#2_0', time=1853.90.
+Warning: Teleporting vehicle 'car_2413'; waited too long (yield), lane='998790351#2_0', time=1854.00.
+Warning: Teleporting vehicle 'bus_46'; waited too long (jam), lane='563791811#3_0', time=1860.50.
+Warning: Teleporting vehicle 'bike_359'; waited too long (jam), lane='563791811#2_0', time=1861.10.
+
+
+
+1. Choose a junction
+2. Color the emergency vehicle or make it visible
+3. Track junction
+4. Make .bat for all 4 vehicle routes
+5. add TraCI

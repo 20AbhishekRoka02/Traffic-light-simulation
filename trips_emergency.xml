@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-03-27 01:20:52.711474 by Eclipse SUMO randomTrips.py v1_26_0+0000-fa7df22d7f1
+<configuration>
+    <net-file value="osm.net.xml"/>
+    <output-trip-file value="trips_emergency.xml"/>
+    <prefix value="emergency_"/>
+    <validate value="False"/>
+    <period value="120.0"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="emergency_0" depart="0.00" from="24584374#0" to="-1075257702#0"/>
+    <trip id="emergency_1" depart="120.00" from="-695569947" to="-553588769#1"/>
+    <trip id="emergency_2" depart="240.00" from="537797266#1" to="31056643#0"/>
+    <trip id="emergency_3" depart="360.00" from="717454380#2" to="-1292286062"/>
+    <trip id="emergency_4" depart="480.00" from="1122220361" to="-1076782197"/>
+    <trip id="emergency_5" depart="600.00" from="-370765179#6" to="154356517#1"/>
+    <trip id="emergency_6" depart="720.00" from="-1075257702#1" to="-370672196"/>
+    <trip id="emergency_7" depart="840.00" from="24584380#4" to="24577096#13"/>
+    <trip id="emergency_8" depart="960.00" from="-370902447" to="24582921#2"/>
+    <trip id="emergency_9" depart="1080.00" from="615556515#0" to="-1060463404#0"/>
+    <trip id="emergency_10" depart="1200.00" from="612734124#1" to="371342951#1"/>
+    <trip id="emergency_11" depart="1320.00" from="-993539154#0" to="-24583584#2"/>
+    <trip id="emergency_12" depart="1440.00" from="80926788#0" to="1000448884#4"/>
+    <trip id="emergency_13" depart="1560.00" from="-1253202246#1" to="-1427873614#1"/>
+    <trip id="emergency_14" depart="1680.00" from="700293877#1" to="24583335#4"/>
+    <trip id="emergency_15" depart="1800.00" from="612750030#1" to="48964552#3"/>
+    <trip id="emergency_16" depart="1920.00" from="235103413#2" to="995792406#4"/>
+    <trip id="emergency_17" depart="2040.00" from="1072967423#0" to="24577108#2"/>
+    <trip id="emergency_18" depart="2160.00" from="686673952#3" to="24583495#3"/>
+    <trip id="emergency_19" depart="2280.00" from="708786616#2" to="24577480#4"/>
+    <trip id="emergency_20" depart="2400.00" from="38235041#0" to="-1122028505"/>
+    <trip id="emergency_21" depart="2520.00" from="-423559880#1" to="-717531847#3"/>
+    <trip id="emergency_22" depart="2640.00" from="-1145143266#7" to="-562499724#3"/>
+    <trip id="emergency_23" depart="2760.00" from="-1292286062" to="-716015301#1"/>
+    <trip id="emergency_24" depart="2880.00" from="24583768#0" to="1074764284#0"/>
+    <trip id="emergency_25" depart="3000.00" from="1066625120#4" to="-38235041#0"/>
+    <trip id="emergency_26" depart="3120.00" from="-686771927#0" to="782774057#4"/>
+    <trip id="emergency_27" depart="3240.00" from="24584378#7" to="24583487#8"/>
+    <trip id="emergency_28" depart="3360.00" from="-24583588" to="48964552#0"/>
+    <trip id="emergency_29" depart="3480.00" from="-24583489#3" to="111695525#0"/>
+</routes>

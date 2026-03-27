@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-03-27 05:59:02.820906 by Eclipse SUMO randomTrips.py v1_26_0+0000-fa7df22d7f1
+<configuration>
+    <net-file value="osm.net.xml"/>
+    <output-trip-file value="trips_firebrigade.xml"/>
+    <prefix value="firebrigade_"/>
+    <trip-attributes value="type=&quot;firebrigade&quot;"/>
+    <validate value="False"/>
+    <period value="180.0"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="firebrigade_0" depart="0.00" from="24584374#0" to="-1075257702#0" type="firebrigade"/>
+    <trip id="firebrigade_1" depart="180.00" from="-695569947" to="-553588769#1" type="firebrigade"/>
+    <trip id="firebrigade_2" depart="360.00" from="537797266#1" to="31056643#0" type="firebrigade"/>
+    <trip id="firebrigade_3" depart="540.00" from="717454380#2" to="-1292286062" type="firebrigade"/>
+    <trip id="firebrigade_4" depart="720.00" from="1122220361" to="-1076782197" type="firebrigade"/>
+    <trip id="firebrigade_5" depart="900.00" from="-370765179#6" to="154356517#1" type="firebrigade"/>
+    <trip id="firebrigade_6" depart="1080.00" from="-1075257702#1" to="-370672196" type="firebrigade"/>
+    <trip id="firebrigade_7" depart="1260.00" from="24584380#4" to="24577096#13" type="firebrigade"/>
+    <trip id="firebrigade_8" depart="1440.00" from="-370902447" to="24582921#2" type="firebrigade"/>
+    <trip id="firebrigade_9" depart="1620.00" from="615556515#0" to="-1060463404#0" type="firebrigade"/>
+    <trip id="firebrigade_10" depart="1800.00" from="612734124#1" to="371342951#1" type="firebrigade"/>
+    <trip id="firebrigade_11" depart="1980.00" from="-993539154#0" to="-24583584#2" type="firebrigade"/>
+    <trip id="firebrigade_12" depart="2160.00" from="80926788#0" to="1000448884#4" type="firebrigade"/>
+    <trip id="firebrigade_13" depart="2340.00" from="-1253202246#1" to="-1427873614#1" type="firebrigade"/>
+    <trip id="firebrigade_14" depart="2520.00" from="700293877#1" to="24583335#4" type="firebrigade"/>
+    <trip id="firebrigade_15" depart="2700.00" from="612750030#1" to="48964552#3" type="firebrigade"/>
+    <trip id="firebrigade_16" depart="2880.00" from="235103413#2" to="995792406#4" type="firebrigade"/>
+    <trip id="firebrigade_17" depart="3060.00" from="1072967423#0" to="24577108#2" type="firebrigade"/>
+    <trip id="firebrigade_18" depart="3240.00" from="686673952#3" to="24583495#3" type="firebrigade"/>
+    <trip id="firebrigade_19" depart="3420.00" from="708786616#2" to="24577480#4" type="firebrigade"/>
+</routes>

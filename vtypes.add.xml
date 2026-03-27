@@ -1,0 +1,38 @@
+<additional>
+
+  <!-- CARS — yellow sedan -->
+  <vType id="car" vClass="passenger"
+         length="4.5" maxSpeed="50"
+         accel="2.6" decel="4.5" sigma="0.5"
+         color="255,220,0"
+         guiShape="passenger/sedan"/>
+
+  <!-- BIKES — bright green bicycle -->
+  <vType id="bike" vClass="bicycle"
+         length="1.8" maxSpeed="8"
+         accel="1.2" decel="3.0" sigma="0.7"
+         color="0,200,0"
+         guiShape="bicycle"/>
+
+  <!-- BUSES — deep blue bus -->
+  <vType id="bus" vClass="bus"
+         length="12.0" maxSpeed="25"
+         accel="1.2" decel="4.0" sigma="0.2"
+         color="0,0,220"
+         guiShape="bus/coach"/>
+
+  <!-- AMBULANCE — bright red emergency -->
+  <vType id="ambulance" vClass="emergency"
+         length="6.5" maxSpeed="70"
+         accel="3.0" decel="5.0" sigma="0.1"
+         color="255,0,0"
+         guiShape="emergency"/>
+
+  <!-- FIRE BRIGADE — orange truck -->
+  <vType id="firebrigade" vClass="emergency"
+         length="8.0" maxSpeed="65"
+         accel="2.5" decel="5.0" sigma="0.1"
+         color="255,100,0"
+         guiShape="firebrigade"/>
+
+</additional>

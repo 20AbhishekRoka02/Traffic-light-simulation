@@ -1,0 +1,21 @@
+<viewsettings>
+  <scheme name="custom">
+  
+    <vehicles>
+      <vehicleColorer attribute="given"/>
+      <vehicleQuality value="2"/>        <!-- 2 = full 3D shape, 1 = boxes, 0 = triangles -->
+      <minVehicleSize value="5"/>
+      <vehicleExaggeration value="2"/> <!-- scale up slightly for visibility -->
+      <showBlinker value="true"/>
+      <drawLaneChangePreference value="false"/>
+    </vehicles>
+    <junctions>
+      <junctionColorer attribute="none"/>
+      <drawShape value="true"/>
+    </junctions>
+    <edges>
+      <edgeColorer attribute="none"/>
+      <laneColorer attribute="speed"/>   <!-- color lanes by speed limit -->
+    </edges>
+  </scheme>
+</viewsettings>
