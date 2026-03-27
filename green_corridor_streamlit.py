@@ -139,8 +139,8 @@ def get_emergency_vehicles():
 def run():
     global manual_phase_index, manual_phase_elapsed
 
-    sumo_cmd = ["sumo-gui", "-c", SUMO_CONFIG, "--start", "--quit-on-end"]
-    traci.start(sumo_cmd)
+    traci.init(port=37071)
+    traci.setOrder(1)  # main controller
 
     step_length = traci.simulation.getDeltaT()  # respects your step-length config
 

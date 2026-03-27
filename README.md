@@ -135,13 +135,36 @@ Launches SUMO-GUI and activates automatic green corridor for ambulances and fire
 python green_corridor.py
 ```
 
-### Option C — Green corridor + Adaptive TLS control (recommended)
+### Option C — Green corridor + Adaptive TLS control
 
 Launches SUMO-GUI with full adaptive signal control on the target junction AND green corridor override:
 
 ```bash
 python green_corridor_test_tls.py
 ```
+
+### Option D — Green corridor + Adaptive TLS control + StreamLit Display (recommended)
+
+Launches SUMO-GUI with full adaptive signal control on the target junction AND green corridor override ans shares snapshots to streamlit:
+
+```bash
+sumo-gui -c simulation.sumocfg --remote-port 37071 --num-clients 2 --start
+```
+Now in a separate terminal run :
+
+```bash
+python green_corridor_streamlit.py
+```
+
+Now in another separate terminal run :
+
+```bash
+streamlit run app.py
+```
+
+This should open a streamlit window in your browser (If not, visit http://localhost:8501)
+and click on "Start Simulation" button in the sidebar
+
 
 ---
 
