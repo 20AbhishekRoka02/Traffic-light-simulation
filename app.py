@@ -8,7 +8,8 @@ import random
 from datetime import datetime
 import folium
 from streamlit_folium import st_folium
-
+import requests
+import base64
 from config import JUNCTIONS, DENSITY_MAP, generate_historical_data, generate_predictions
 from styles import PREMIUM_CSS
 
@@ -111,10 +112,52 @@ tab_live, tab_analytics, tab_network, tab_control = st.tabs([
 with tab_live:
     st.markdown('<div class="sec-title">📸 Multi-Lane YOLOv8 Vision Feeds <span class="live-tag"><span class="live-dot-r"></span>LIVE</span></div>', unsafe_allow_html=True)
 
+    # ── Fetch API Data Button ─────────────────────────────
+    if st.button("📡 Fetch Live Traffic", use_container_width=True):
+
+        try:
+            res = requests.get("http://localhost:8000/api/traffic")
+            api_data = res.json()
+
+            new_cameras = []
+
+            for i, item in enumerate(api_data):
+
+                img_bytes = base64.b64decode(item["image"])
+
+                density_map_fix = {
+                    "low": "LOW TRAFFIC",
+                    "medium": "MEDIUM TRAFFIC",
+                    "high": "HIGH TRAFFIC",
+                    "critical": "CRITICAL"
+                }
+
+                new_cameras.append({
+                    "cam_id": i + 1,
+                    "image": img_bytes,
+                    "count": item["vehicle_count"],
+                    "density": density_map_fix.get(item["density"].lower(), "LOW TRAFFIC"),
+                    "road": f"Lane {i+1}",
+                    "speed_avg": random.randint(20, 60),
+                    "queue_length": random.randint(50, 300),
+                    "vehicles": {
+                        "cars": random.randint(5, 20),
+                        "trucks": random.randint(1, 5),
+                        "bikes": random.randint(5, 15),
+                        "buses": random.randint(0, 3),
+                    }
+                })
+
+            st.session_state.api_cameras = new_cameras
+
+        except Exception as e:
+            st.error(f"API Error: {e}")
     cam_cols = st.columns(4, gap="medium")
-    for i, feed in enumerate(J["cameras"]):
+    camera_source = st.session_state.get("api_cameras", J["cameras"])
+
+    for i, feed in enumerate(camera_source):
         with cam_cols[i]:
-            dm = DENSITY_MAP[feed["density"]]
+            dm = DENSITY_MAP.get(feed["density"], list(DENSITY_MAP.values())[0])
             st.markdown(f"""
             <div class="cam-feed">
                 <div class="cam-top">
