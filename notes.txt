@@ -22,3 +22,9 @@ Warning: Teleporting vehicle 'bike_359'; waited too long (jam), lane='563791811#
 3. Track junction
 4. Make .bat for all 4 vehicle routes
 5. add TraCI
+
+
+main files:
+1. green_corridor.py
+2. green_corridor_dynamic_tls.py
+3. traffic_simulation.py (HEAVY TRAFFIC at TLS)
