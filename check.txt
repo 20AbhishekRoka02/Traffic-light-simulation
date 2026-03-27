@@ -1,0 +1,311 @@
+ 📍 Found 4 edges connected to TLS 'cluster_267196276_6666318646_6666318659_6666328407_#2more'
+  Nearby edges: ['-537797267#1', '359757123', '709276138#1', '537797266#4'] ... (showing first 5)
+
+  ⏱ [5.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_0' | -537797267#1 → 1043313920#1
+  🚗 Spawned 'spawned_car_1' | 709276138#1 → -1253491209#0
+  🚗 Spawned 'spawned_car_2' | -537797267#1 → 714992548#1
+  🚗 Spawned 'spawned_car_3' | 709276138#1 → 80499762#14
+  🚗 Spawned 'spawned_car_4' | 537797266#4 → 1294942991#1
+
+  ⏱ [10.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_5' | -537797267#1 → -371342937#1
+  🚗 Spawned 'spawned_car_6' | -537797267#1 → 125439740#0
+  🚗 Spawned 'spawned_car_7' | 709276138#1 → 24577488#8
+  🚗 Spawned 'spawned_car_8' | 359757123 → 1122252741#3
+  🚗 Spawned 'spawned_car_9' | -537797267#1 → 1175626044#1
+
+  ⏱ [15.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_10' | 709276138#1 → 1355296677#1
+  🚗 Spawned 'spawned_car_11' | -537797267#1 → 1122233333#0
+  🚗 Spawned 'spawned_car_12' | 709276138#1 → 660097251
+  🚗 Spawned 'spawned_car_13' | 359757123 → -717907813#1
+  🚗 Spawned 'spawned_car_14' | 359757123 → -24583489#1
+
+  ⏱ [20.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_15' | 709276138#1 → -1409462997
+  🚗 Spawned 'spawned_car_16' | -537797267#1 → -1438583474#1
+  🚗 Spawned 'spawned_car_17' | 537797266#4 → 712992075#3
+  🚗 Spawned 'spawned_car_18' | -537797267#1 → 370737774#0
+  🚗 Spawned 'spawned_car_19' | -537797267#1 → -1120542277#1
+
+  ⏱ [25.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_20' | 359757123 → -718258885
+  🚗 Spawned 'spawned_car_21' | 359757123 → 447141138#1
+  🚗 Spawned 'spawned_car_22' | 537797266#4 → 1122226257
+  🚗 Spawned 'spawned_car_23' | -537797267#1 → -24584385#1
+  🚗 Spawned 'spawned_car_24' | 359757123 → -730208170#0
+
+  ⏱ [30.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_25' | 359757123 → 44263457#7
+  🚗 Spawned 'spawned_car_26' | 709276138#1 → 1121169241#1
+  🚗 Spawned 'spawned_car_27' | -537797267#1 → 116046168#2
+  🚗 Spawned 'spawned_car_28' | 709276138#1 → -1121186662#1
+  🚗 Spawned 'spawned_car_29' | 537797266#4 → -577982260#6
+
+  ⏱ [35.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_30' | 709276138#1 → 1122257669#1
+  🚗 Spawned 'spawned_car_31' | -537797267#1 → 116046166#0
+  🚗 Spawned 'spawned_car_32' | 537797266#4 → -1282399951#1
+  🚗 Spawned 'spawned_car_33' | 709276138#1 → -1122215527#0
+  🚗 Spawned 'spawned_car_34' | -537797267#1 → 1290403893#0
+
+  ⏱ [40.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_35' | 359757123 → 717046638#1
+  🚗 Spawned 'spawned_car_36' | -537797267#1 → -1079914366#0
+  🚗 Spawned 'spawned_car_37' | 359757123 → 1122030689
+  🚗 Spawned 'spawned_car_38' | -537797267#1 → 1072914442#2
+  🚗 Spawned 'spawned_car_39' | -537797267#1 → -1121168146#1
+
+  ⏱ [45.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_40' | -537797267#1 → 1138292932
+  🚗 Spawned 'spawned_car_41' | 359757123 → 612734125
+  🚗 Spawned 'spawned_car_42' | 537797266#4 → 1119548729
+  🚗 Spawned 'spawned_car_43' | -537797267#1 → 44263457#0
+  🚗 Spawned 'spawned_car_44' | 709276138#1 → 1066625119#0
+
+  ⏱ [50.0s] Spawning 5 cars...
+  ⏱ [50.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_45' | -537797267#1 → -714662756#4
+  🚗 Spawned 'spawned_car_46' | 709276138#1 → -1487121213#1
+  🚗 Spawned 'spawned_car_47' | 709276138#1 → 700305760#2
+  🚗 Spawned 'spawned_car_48' | 537797266#4 → -1119548740
+  🚗 Spawned 'spawned_car_49' | 537797266#4 → -1306147695#1
+
+  ⏱ [55.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_50' | 537797266#4 → 1121197431#3
+  🚗 Spawned 'spawned_car_51' | 537797266#4 → 44352050#1
+  🚗 Spawned 'spawned_car_52' | 359757123 → 998790358#7
+  🚗 Spawned 'spawned_car_53' | 709276138#1 → -164684416#0
+  🚗 Spawned 'spawned_car_54' | 359757123 → 24584407#4
+
+  ⏱ [60.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_55' | -537797267#1 → -1386161115#0
+  🚗 Spawned 'spawned_car_56' | -537797267#1 → 1072978656#3
+  🚗 Spawned 'spawned_car_57' | 537797266#4 → -103176785#2
+  🚗 Spawned 'spawned_car_58' | 359757123 → 1184972695
+  🚗 Spawned 'spawned_car_59' | 709276138#1 → 1060463406#0
+
+  ⏱ [65.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_60' | 537797266#4 → 1484217568#0
+  🚗 Spawned 'spawned_car_61' | 359757123 → 730111073#1
+  🚗 Spawned 'spawned_car_62' | -537797267#1 → -1121147811#1
+  🚗 Spawned 'spawned_car_63' | 709276138#1 → 1072933744#0
+  🚗 Spawned 'spawned_car_64' | 359757123 → 80499763#2
+
+  ⏱ [70.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_65' | -537797267#1 → -80926770#3
+  🚗 Spawned 'spawned_car_66' | -537797267#1 → 125439717
+  🚗 Spawned 'spawned_car_67' | -537797267#1 → -370902455#3
+  🚗 Spawned 'spawned_car_68' | 359757123 → -1121175900#0
+  🚗 Spawned 'spawned_car_69' | -537797267#1 → 1287398725#3
+
+  ⏱ [75.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_70' | 709276138#1 → -24582919#1
+  🚗 Spawned 'spawned_car_71' | 359757123 → -1306152700#0
+  🚗 Spawned 'spawned_car_72' | 359757123 → 370902448#1
+  🚗 Spawned 'spawned_car_73' | 537797266#4 → -1121152271#0
+  🚗 Spawned 'spawned_car_74' | 709276138#1 → -706279260#1
+
+  ⏱ [80.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_75' | -537797267#1 → -993538710#2
+  🚗 Spawned 'spawned_car_76' | 537797266#4 → 660372919#3
+  🚗 Spawned 'spawned_car_77' | 709276138#1 → 1121175094#0
+  🚗 Spawned 'spawned_car_78' | 537797266#4 → 24583337#1
+  🚗 Spawned 'spawned_car_79' | 709276138#1 → 1025079098#8
+
+  ⏱ [85.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_80' | 359757123 → 125439740#0
+  🚗 Spawned 'spawned_car_81' | 359757123 → 1282114897#4
+  🚗 Spawned 'spawned_car_82' | -537797267#1 → -993539946#0
+  🚗 Spawned 'spawned_car_83' | 709276138#1 → 1121145404#1
+  🚗 Spawned 'spawned_car_84' | -537797267#1 → 24584391#0
+
+  ⏱ [90.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_85' | 709276138#1 → -1137810764#0
+  🚗 Spawned 'spawned_car_86' | 537797266#4 → 370902436#0
+  🚗 Spawned 'spawned_car_87' | 537797266#4 → 611866592#0
+  🚗 Spawned 'spawned_car_88' | 709276138#1 → 696640196#2
+  🚗 Spawned 'spawned_car_89' | 359757123 → -1253573016
+
+  ⏱ [95.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_90' | 709276138#1 → 718258885
+  🚗 Spawned 'spawned_car_91' | 709276138#1 → -1386084973
+  🚗 Spawned 'spawned_car_92' | 359757123 → -1121189625#2
+  🚗 Spawned 'spawned_car_93' | -537797267#1 → 24584383#3
+  🚗 Spawned 'spawned_car_94' | 359757123 → -24583489#7
+
+  ⏱ [100.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_95' | -537797267#1 → -1122028503#1
+  🚗 Spawned 'spawned_car_96' | -537797267#1 → 1393736852
+  🚗 Spawned 'spawned_car_97' | 359757123 → 561938852#1
+  🚗 Spawned 'spawned_car_98' | 709276138#1 → -370765174#1
+  🚗 Spawned 'spawned_car_99' | 709276138#1 → -1121172601
+
+  ⏱ [105.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_100' | 537797266#4 → 686925958
+  🚗 Spawned 'spawned_car_101' | -537797267#1 → -656933871#7
+  🚗 Spawned 'spawned_car_102' | 359757123 → 24577414#0
+  🚗 Spawned 'spawned_car_103' | 709276138#1 → 1185928009
+  🚗 Spawned 'spawned_car_104' | 709276138#1 → 154356520#3
+
+  ⏱ [110.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_105' | 359757123 → 707566696#1
+  🚗 Spawned 'spawned_car_106' | 709276138#1 → -112102244#1
+  🚗 Spawned 'spawned_car_107' | 709276138#1 → 1072954053#0
+  🚗 Spawned 'spawned_car_108' | -537797267#1 → 1121186672#1
+  🚗 Spawned 'spawned_car_109' | -537797267#1 → 24584394#0
+
+  ⏱ [115.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_110' | 709276138#1 → 994856328
+  🚗 Spawned 'spawned_car_111' | 359757123 → 24583332#3
+  🚗 Spawned 'spawned_car_112' | -537797267#1 → -728081721
+  🚗 Spawned 'spawned_car_113' | 709276138#1 → 1134455074#0
+  🚗 Spawned 'spawned_car_114' | 537797266#4 → 1184192939#1
+
+  ⏱ [120.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_115' | 537797266#4 → 1463536005#0
+  🚗 Spawned 'spawned_car_116' | 359757123 → 1122260591#2
+  🚗 Spawned 'spawned_car_117' | 359757123 → 1277941999#1
+  🚗 Spawned 'spawned_car_118' | -537797267#1 → 717907807#2
+  🚗 Spawned 'spawned_car_119' | -537797267#1 → 1415607183#1
+
+  ⏱ [125.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_120' | 537797266#4 → 24584380#0
+  🚗 Spawned 'spawned_car_121' | -537797267#1 → -24577418#4
+  🚗 Spawned 'spawned_car_122' | 537797266#4 → -695557274#1
+  🚗 Spawned 'spawned_car_123' | 709276138#1 → 1121197442
+  🚗 Spawned 'spawned_car_124' | -537797267#1 → -295323841#0
+
+  ⏱ [130.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_125' | 709276138#1 → 1234918805#0
+  🚗 Spawned 'spawned_car_126' | -537797267#1 → 1294941400#0
+  🚗 Spawned 'spawned_car_127' | 359757123 → -1074157512#1
+  🚗 Spawned 'spawned_car_128' | 359757123 → -1121168156
+  🚗 Spawned 'spawned_car_129' | 709276138#1 → -1122226248
+
+  ⏱ [135.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_130' | -537797267#1 → -1277942000#4
+  🚗 Spawned 'spawned_car_131' | 709276138#1 → -1458665525#0
+  🚗 Spawned 'spawned_car_132' | -537797267#1 → -1119548738#0
+  🚗 Spawned 'spawned_car_133' | 537797266#4 → 359804622#0
+  🚗 Spawned 'spawned_car_134' | -537797267#1 → 1202691839#0
+
+  ⏱ [140.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_135' | 359757123 → -1121169242#1
+  🚗 Spawned 'spawned_car_136' | 709276138#1 → 235103610#3
+  🚗 Spawned 'spawned_car_137' | 537797266#4 → 780136185#4
+  🚗 Spawned 'spawned_car_138' | -537797267#1 → 1121154754
+  🚗 Spawned 'spawned_car_139' | -537797267#1 → 1121169243#0
+
+  ⏱ [145.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_140' | -537797267#1 → -1122028508
+  🚗 Spawned 'spawned_car_141' | -537797267#1 → 103176782#2
+  🚗 Spawned 'spawned_car_142' | -537797267#1 → 1393736866#0
+  🚗 Spawned 'spawned_car_143' | 537797266#4 → 1121189648#0
+  🚗 Spawned 'spawned_car_144' | -537797267#1 → 24584407#3
+
+  ⏱ [150.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_145' | 359757123 → -778207712#1
+  🚗 Spawned 'spawned_car_146' | -537797267#1 → -1438583474#1
+  🚗 Spawned 'spawned_car_147' | -537797267#1 → -973075864
+  🚗 Spawned 'spawned_car_148' | 537797266#4 → -291266017#9
+  🚗 Spawned 'spawned_car_149' | 359757123 → -664976729#0
+
+  ⏱ [155.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_150' | 359757123 → 1122265432
+  🚗 Spawned 'spawned_car_151' | 359757123 → -1121147815#0
+  🚗 Spawned 'spawned_car_152' | 709276138#1 → 997761541#5
+  🚗 Spawned 'spawned_car_153' | 359757123 → 44263461#7
+  🚗 Spawned 'spawned_car_154' | 709276138#1 → 553590474#4
+
+  ⏱ [160.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_155' | 359757123 → 596373338#2
+  🚗 Spawned 'spawned_car_156' | 709276138#1 → 1122248055#1
+  🚗 Spawned 'spawned_car_157' | 359757123 → 1122248892
+  🚗 Spawned 'spawned_car_158' | 537797266#4 → 1122030697#2
+  🚗 Spawned 'spawned_car_159' | -537797267#1 → 24582919#0
+
+  ⏱ [165.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_160' | 709276138#1 → 708488753#3
+  🚗 Spawned 'spawned_car_161' | 359757123 → 77594819
+  🚗 Spawned 'spawned_car_162' | 709276138#1 → 1122260583#0
+  🚗 Spawned 'spawned_car_163' | -537797267#1 → -164684411#2
+  🚗 Spawned 'spawned_car_164' | 709276138#1 → 188245893
+
+  ⏱ [170.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_165' | 709276138#1 → -44263461#8
+  🚗 Spawned 'spawned_car_166' | -537797267#1 → 1122252749
+  🚗 Spawned 'spawned_car_167' | -537797267#1 → 24577095#2
+  🚗 Spawned 'spawned_car_168' | 537797266#4 → 1121139436
+  🚗 Spawned 'spawned_car_169' | 537797266#4 → 1282019280#2
+
+  ⏱ [175.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_170' | -537797267#1 → 1374632732
+  🚗 Spawned 'spawned_car_171' | -537797267#1 → -1121142406#2
+  🚗 Spawned 'spawned_car_172' | 359757123 → 722082947#1
+  🚗 Spawned 'spawned_car_173' | 709276138#1 → 1234918816#1
+  🚗 Spawned 'spawned_car_174' | 359757123 → 291266017#7
+
+  ⏱ [180.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_175' | 537797266#4 → -717046638#0
+  🚗 Spawned 'spawned_car_176' | -537797267#1 → 915035151
+  🚗 Spawned 'spawned_car_177' | 537797266#4 → 24584380#6
+  🚗 Spawned 'spawned_car_178' | 709276138#1 → 80499762#3
+  🚗 Spawned 'spawned_car_179' | 359757123 → -1121139430#0
+
+  ⏱ [185.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_180' | 537797266#4 → 23133600#2
+  🚗 Spawned 'spawned_car_181' | 359757123 → 1395701897#0
+  🚗 Spawned 'spawned_car_182' | -537797267#1 → 1120542270#1
+  🚗 Spawned 'spawned_car_183' | 359757123 → -1121151140#0
+  🚗 Spawned 'spawned_car_184' | 709276138#1 → 446922582#9
+
+  ⏱ [190.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_185' | 709276138#1 → -1311718234
+  🚗 Spawned 'spawned_car_186' | 709276138#1 → 1472666636
+  🚗 Spawned 'spawned_car_187' | 709276138#1 → -1190541400#1
+  🚗 Spawned 'spawned_car_188' | 709276138#1 → 1076510349#1
+  🚗 Spawned 'spawned_car_189' | -537797267#1 → -1184963117
+
+  ⏱ [195.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_190' | 709276138#1 → 735111688
+  🚗 Spawned 'spawned_car_191' | 359757123 → -1121168152
+  🚗 Spawned 'spawned_car_192' | 709276138#1 → 1487121205#1
+  🚗 Spawned 'spawned_car_193' | -537797267#1 → 311994764#1
+  🚗 Spawned 'spawned_car_194' | 537797266#4 → 1122257057
+
+  ⏱ [200.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_195' | -537797267#1 → 1478672592#3
+  🚗 Spawned 'spawned_car_196' | 359757123 → 660372919#1
+  🚗 Spawned 'spawned_car_197' | 537797266#4 → 1253573016
+  🚗 Spawned 'spawned_car_198' | -537797267#1 → -993855710#0
+  🚗 Spawned 'spawned_car_199' | 537797266#4 → 24563449#6
+
+  ⏱ [205.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_200' | 709276138#1 → 717907814#5
+  🚗 Spawned 'spawned_car_201' | 359757123 → -553590474#0
+  🚗 Spawned 'spawned_car_202' | -537797267#1 → -44263461#8
+  🚗 Spawned 'spawned_car_203' | 709276138#1 → 80499762#14
+  🚗 Spawned 'spawned_car_204' | -537797267#1 → 1075257701
+
+  ⏱ [210.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_205' | 709276138#1 → 1294942998#1
+  🚗 Spawned 'spawned_car_206' | -537797267#1 → -1121197439#2 (4)
+  🚗 Spawned 'spawned_car_207' | -537797267#1 → 1120542273
+  🚗 Spawned 'spawned_car_208' | 359757123 → 1297388584#0
+  🚗 Spawned 'spawned_car_209' | 709276138#1 → 1217754777#0
+
+  ⏱ [215.0s] Spawning 5 cars...
+  🚗 Spawned 'spawned_car_210' | 537797266#4 → 24584373#1 (2)
+  🚗 Spawned 'spawned_car_211' | 359757123 → -991086430#0 (3)
+  🚗 Spawned 'spawned_car_212' | 359757123 → 706854224#2
+  🚗 Spawned 'spawned_car_213' | 709276138#1 → -371342947#2 (1)
+  🚗 Spawned 'spawned_car_214' | 709276138#1 → 1203012173
+
+
+spawns
+709276138#1 (up) HIGH
+537797266#4 (down) MEDIUM
+359757123 (left) LOW
+-537797267#1 (right) LOW
