@@ -28,3 +28,13 @@ main files:
 1. green_corridor.py
 2. green_corridor_dynamic_tls.py
 3. traffic_simulation.py (HEAVY TRAFFIC at TLS)
+
+
+streamlit run app.py
+python simulaiton.py
+
+
+codes to run: 
+sumo-gui -c simulation.sumocfg --remote-port 37071 --num-clients 2 --start
+python simulation1.py
+streamlit run app.py
